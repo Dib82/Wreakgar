@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+    color: antiquewhite;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.poster {
+    margin-top: 10%;
+    width:50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#WreakGar {
+    border: 5px solid white;
+    padding: 5px;
+    width: 100%;
+}
+
+
